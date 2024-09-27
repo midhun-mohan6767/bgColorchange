@@ -1,0 +1,10 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.buttons:hover{
+  border: solid 2px;
+  border-color: rgb(241, 244, 246);
+  color: rgb(36, 34, 34);
+  font-weight: 600;
+}
